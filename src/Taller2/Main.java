@@ -144,7 +144,7 @@ public class Main {
 					break;
 				}
 			/**
-			 * mientras la opcion no sea diferente del 5 se mantendra en el bucle y creara naves
+			 * mientras la opcion sea diferente del 5 se mantendra en el bucle y creara naves
 			 */
 			}while(opcion!=5);
 			/**
